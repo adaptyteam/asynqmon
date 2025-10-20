@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hibiken/asynq"
-	"github.com/hibiken/asynq/x/metrics"
+	asynq "github.com/adaptyteam/fox-asynq"
+	"github.com/adaptyteam/fox-asynq/x/metrics"
 	"github.com/hibiken/asynqmon"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"

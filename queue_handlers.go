@@ -6,7 +6,6 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-
 	"github.com/hibiken/asynq"
 )
 
