@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/adaptyteam/asynqmon"
 	asynq "github.com/adaptyteam/fox-asynq"
 	"github.com/adaptyteam/fox-asynq/x/metrics"
-	"github.com/hibiken/asynqmon"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/rs/cors"

@@ -9,8 +9,6 @@ require (
 	github.com/adaptyteam/fox-asynq/x v0.0.7
 	github.com/google/go-cmp v0.6.0
 	github.com/gorilla/mux v1.8.0
-	github.com/hibiken/asynq v0.25.1
-	github.com/hibiken/asynqmon v0.7.2
 	github.com/prometheus/client_golang v1.20.5
 	github.com/redis/go-redis/v9 v9.7.0
 	github.com/rs/cors v1.7.0

@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
+	asynq "github.com/adaptyteam/fox-asynq"
 	"github.com/gorilla/mux"
-	"github.com/hibiken/asynq"
 )
 
 // ****************************************************************************

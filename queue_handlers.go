@@ -5,8 +5,8 @@ import (
 	"errors"
 	"net/http"
 
+	asynq "github.com/adaptyteam/fox-asynq"
 	"github.com/gorilla/mux"
-	"github.com/hibiken/asynq"
 )
 
 // ****************************************************************************

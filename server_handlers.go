@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/hibiken/asynq"
+	asynq "github.com/adaptyteam/fox-asynq"
 )
 
 // ****************************************************************************

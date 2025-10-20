@@ -5,7 +5,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/hibiken/asynq"
+	asynq "github.com/adaptyteam/fox-asynq"
 )
 
 // ****************************************************************************
